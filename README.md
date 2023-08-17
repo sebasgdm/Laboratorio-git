@@ -1,6 +1,4 @@
 # Laboratorio-git
-
-
-+Sebastián González
+Sebastián González
 
 ## Cambios en repo remoto
