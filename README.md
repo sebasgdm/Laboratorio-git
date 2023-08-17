@@ -1,25 +1,37 @@
-# Laboratorio-git
-Sebastián González
 
-## Cambios en repo remoto
+# <span style="color:Lightgreen;">Laboratorio Github.</span> 
 
-En esta clase hemos aprendido como crear un repo remota en Github.
+<span style="font-family: Times;">Sebastián González Del Moral - A01786196</span>
 
-clear: Borrar
-pwd: print working directory: Va a imprimir la carpeta en la que está en la terminal
-ls: list: Muestra los contenidos de la carpeta en la que estoy en ese momento. No sale la carpeta .ssh
-Significa que es una carpeta oculta
-ls -a: list all manda comandos
-cd .ssh change directory
-cat:  carchivos cambia la carpeta, ver el contenido de la llave
-git clone y url del repositorio: 
-cmd click para abrir
-git add: Agregar archivos.
-git commit: registrar en base de datos.
-git add -A: 
-git commit -m: Son Mensajes" Added webpage"
-git push -u origin main
-git pull
+## <span style="font-family: Times New Roman;"> <span style="color:Lightblue;">Cambios en el repositorio </span>
+
+![github-logo](/Imágenes/tec-logo.png) 
+
+*En esta clase hemos aprendido como crear un repositorio remoto en Github.*
+
+- <span style="font-family: Times;"> <span style="color:orange;">¿Qué es un Repositorio? </span> </span> Archivos y diferentes versiones de esos archivos, te ayuda a poder recuperar versiones, facilita la recopilación.
+
+- <span style="font-family: Times;"> <span style="color:orange;">¿Qué es el path? </span> </span> Ruta predefinida en donde nuestro equipo busca comandos y los ejecuta en una terminal
+
+- <span style="font-family: Times;"> <span style="color:orange;">Git: </span> </span> Es Gratis y de código abierto, es rápido, y soporta archivos grandes, *se va a usar la terminal*
+
+
+
+#####Comandos que hemos aprendido y lo que hacen: 
+
+clear-borrar - Limpia la consola
+pwd-print working directory: Va a imprimir la carpeta en la que está en la terminal
+ls-list: Muestra los contenidos de la carpeta en la que estoy en ese momento. Si no sale la carpeta .ssh significa que es una carpeta oculta
+ls -a-list all: Manda comandos
+cd .ssh-change directory
+cat-carchivos: cambia la carpeta, ver el contenido de la llave
+git clone y url del repositorio: Genera un clon.
+git add: Agrega archivos.
+git commit: Registrar en base de datos.
+git add -A: Agrega un archivo
+git commit -m: Son mensajes que se mandan
+git push -u (origin main): Se utiliza para cambiar cambios locales en un repositorio remoto
+git pull: se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
 
 ## References
 En esta clase hemos aprendido 
