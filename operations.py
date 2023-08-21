@@ -11,3 +11,5 @@ num3 = 11
 resultado1 = (num2-num3)
 
 print (resultado1)
+
+print(num*num1)
