@@ -15,9 +15,7 @@ Sebastián González Del Moral - A01786196
 
 - Git:  Es Gratis y de código abierto, es rápido, y soporta archivos grandes, *se va a usar la terminal*
 
-
-
-###Comandos que hemos aprendido y lo que hacen: 
+##### Comandos que hemos aprendido y lo que hacen: 
 
 clear-borrar - Limpia la consola
 pwd-print working directory: Va a imprimir la carpeta en la que está en la terminal
