@@ -1,23 +1,23 @@
 
-# <span style="color:Lightgreen;">Laboratorio Github.</span> 
+# Laboratorio Github
 
-<span style="font-family: Times;">Sebastián González Del Moral - A01786196</span>
+Sebastián González Del Moral - A01786196
 
-## <span style="font-family: Times New Roman;"> <span style="color:Lightblue;">Cambios en el repositorio </span>
+## Cambios en el repositorio 
 
 ![github-logo](/Imágenes/tec-logo.png) 
 
 *En esta clase hemos aprendido como crear un repositorio remoto en Github.*
 
-- <span style="font-family: Times;"> <span style="color:orange;">¿Qué es un Repositorio? </span> </span> Archivos y diferentes versiones de esos archivos, te ayuda a poder recuperar versiones, facilita la recopilación.
+- ¿Qué es un Repositorio?  Archivos y diferentes versiones de esos archivos, te ayuda a poder recuperar versiones, facilita la recopilación.
 
-- <span style="font-family: Times;"> <span style="color:orange;">¿Qué es el path? </span> </span> Ruta predefinida en donde nuestro equipo busca comandos y los ejecuta en una terminal
+- ¿Qué es el path? Ruta predefinida en donde nuestro equipo busca comandos y los ejecuta en una terminal
 
-- <span style="font-family: Times;"> <span style="color:orange;">Git: </span> </span> Es Gratis y de código abierto, es rápido, y soporta archivos grandes, *se va a usar la terminal*
+- Git:  Es Gratis y de código abierto, es rápido, y soporta archivos grandes, *se va a usar la terminal*
 
 
 
-#####Comandos que hemos aprendido y lo que hacen: 
+###Comandos que hemos aprendido y lo que hacen: 
 
 clear-borrar - Limpia la consola
 pwd-print working directory: Va a imprimir la carpeta en la que está en la terminal
